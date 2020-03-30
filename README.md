@@ -30,8 +30,9 @@ These devices have a strong Linux community and are well-supported by more than 
 
 ## Apps
 
-These apps work well on small form factor devices.
-- 
+These apps work well on Linux phones, and are in a beta stage or better.
+- [Authenticator](https://gitlab.gnome.org/World/Authenticator) - a GTK+ app for two factor authentication/OTP, features a qr-code scanner and file backups
+- More? See the lists below for a non-curated listing of apps.
 
 These are some other lists with Linux Phone apps.
 - [Librem's List](https://source.puri.sm/Librem5/community-wiki/-/wikis/List-of-Apps-in-Development) - Mostly GTK+ apps that integrate well with their `phosh` mobile desktop shell.
