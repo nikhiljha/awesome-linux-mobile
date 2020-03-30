@@ -32,6 +32,7 @@ These devices have a strong Linux community and are well-supported by more than 
 
 These apps work well on Linux phones, and are in a beta stage or better.
 - [Authenticator](https://gitlab.gnome.org/World/Authenticator) - a GTK+ app for two factor authentication/OTP, features a qr-code scanner and file backups
+- [Foliate](https://johnfactotum.github.io/foliate/) - a simple and modern ebook viewer
 - More? See the lists below for a non-curated listing of apps.
 
 These are some other lists with Linux Phone apps.
