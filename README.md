@@ -48,7 +48,7 @@ These apps work well on Linux phones, and are in a beta stage or better. Once th
 
 These are some other lists with Linux Phone apps.
 - [Librem's List](https://source.puri.sm/Librem5/community-wiki/-/wikis/List-of-Apps-in-Development) - Mostly GTK+ apps that integrate well with their `phosh` mobile desktop shell.
-- [Framasoft's List](https://mglapps.frama.io/) - Practically *every* app for mobile GNU/Linux, organized into a table.
+- [Framasoft's List](https://mglapps.frama.io/) - Practically *every* app for mobile GNU/Linux, or apps that could possibly be modified to work on mobile, organized into a table.
 
 ## Distributions
 
@@ -56,6 +56,8 @@ These are mobile-specific distributions, or regular distributions that support m
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/PostmarketOS_logo.svg" width=15 height=15> [PostmarketOS](https://postmarketos.org/) - Based on Alpine Linux, PostmarketOS is a good lightweight pick that still supports a multitude of mobile interfaces.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ubuntu_and_Ubuntu_Server_Icon.png" width=15 height=15> [Ubuntu Touch](https://ubuntu-touch.io/) - A community supported continuation of Canonical's project of the same name, Ubuntu Touch runs the unique Unity-based Lomiri interface and has a decently populated app store.
+- <img src="https://nixos.org/logo/nixos-logo-only-hires.png" width=15 height=15> [NixOS Mobile](https://mobile.nixos.org/) - Currently supporting around [10 devices](https://mobile.nixos.org/devices/index.html), and featuring the same desktop Nix package manager in all it's declarative/reproducible goodness.
+- <img src="https://maemo-leste.github.io/images/logo.png" width=15 height=15> [Maemo Leste](https://maemo-leste.github.io/) - Currently supports a few older devices (notably, the N900 and the PinePhone).
 - And more! You can find a pretty good list at the [PinePhone Software Release](https://wiki.pine64.org/index.php/PinePhone_Software_Release) page, since nearly every (if not every) Linux-on-phone distribution runs on the PinePhone.
 
 ## Contribute
