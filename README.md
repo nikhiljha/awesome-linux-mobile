@@ -34,6 +34,8 @@ A surprising number of Android phones (and, possibly the iPhone 7 soon) can boot
 
 - [Can My Phone Run Linux?](https://many.tuxphones.com/) - An excellent site by [Tuxphones](https://tuxphones.com/) that allows you to **search** for devices that boot Linux.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/PostmarketOS_logo.svg" width=15 height=15> [PostmarketOS Device List](https://wiki.postmarketos.org/wiki/Devices) - A list of devices that can boot into postmarketOS, along with the features they currently support. This page also documents some failed attempts at porting, which might be useful for future successful attempts.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ubuntu_and_Ubuntu_Server_Icon.png" width=15 height=15> [Ubuntu Touch Device List](https://devices.ubuntu-touch.io/) - A list of devices that can boot into Ubuntu Touch, with some kind of metric showing the "maturity" of each device.
+- <img src="https://nixos.org/logo/nixos-logo-only-hires.png" width=15 height=15> [NixOS Device List](https://mobile.nixos.org/devices/index.html) - A list of devices that can boot into NixOS, no information pertaining to feature support is available.
 
 ## Apps
 
